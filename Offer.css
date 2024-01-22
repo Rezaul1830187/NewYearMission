@@ -1,0 +1,40 @@
+/* Offer */
+.offers {
+
+margin-top: 100px;
+text-align: center;
+
+
+}
+
+.offers h1{
+color: #F00;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+text-align: center;
+
+}
+
+.offers p{
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+padding-top: 5px;
+text-align: center;
+
+}
+
+.offers h3{
+color: #070211;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+
+}
