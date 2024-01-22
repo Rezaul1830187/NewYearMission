@@ -1,6 +1,8 @@
 .footer {
     background: #070211;
-    height: 609px;
+    margin-top: 80px;
+    width: 100%;
+    overflow: hidden;
     
 }
 
@@ -123,6 +125,7 @@
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    margin-bottom: 50px;
 }
 
 .unsubscribe button {
@@ -134,4 +137,5 @@
     line-height: normal;
     background-color: #070211;
     border: none;
+    margin-bottom: 50px;
 }
