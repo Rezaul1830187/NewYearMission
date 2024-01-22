@@ -5,6 +5,7 @@
     border-radius: 10px;
     margin-left: 20px;
     text-align: center;
+    margin-top: 60px;
     
 }
 
@@ -26,7 +27,7 @@
     font-size: 32px;
     font-style: normal;
     font-weight: 600;
-    line-height: 40px;
+    line-height: 20px;
     text-transform: capitalize;
        
 }
@@ -50,4 +51,10 @@
     font-weight: 700;
     line-height: normal;
     border-radius: 3px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.address button:hover{
+    color: aquamarine;
 }

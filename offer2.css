@@ -1,0 +1,104 @@
+.offer2{
+    display:flex;
+    height: 463px;
+    max-width: 98%;
+    margin-top: 120px;
+    
+}
+
+.new_offer{
+    margin-left: 20px;
+    margin-right: 70px;
+}
+
+.new_offer p {
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 35px;
+}
+
+.new_offer h3{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 20px;
+
+}
+
+.new_offer h1{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 0;
+    margin-top: 20px;
+
+
+}
+
+
+.image{
+
+    text-align: center;
+    border-radius: 50%;
+    border: 15px solid #f00;
+    width: 380px;
+    height: 380px;
+    /* margin-left: 40px; */
+    margin-right: 50px;
+    
+    
+}
+
+.image img{
+    margin-top: 32px;
+    border-radius: 334px;
+    width:320.844px;
+    /* height: 364.844px; */
+    flex-shrink: 0;
+}
+
+.happy{
+    margin-left: 70px;
+
+}
+
+.happy h2{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0;
+}
+
+.happy p{
+    width: 273px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 40px;
+
+}
+
+.happy img{
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;
+
+}
