@@ -1,0 +1,137 @@
+.footer {
+    background: #070211;
+    height: 609px;
+    
+}
+
+.facebook-icon{
+    color: blue;
+}
+
+.fa {
+    padding: 5px;
+    font-size: 20px;
+    width: 250px;
+    text-decoration: none;
+
+  }
+
+  .icons{
+    display: flex;
+    margin: 70px 600px  ;
+
+  }
+
+  .icons a{
+    width: 15px;
+  }
+
+  .contacts {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    max-width: 90%;
+    text-align: center;
+    margin-top: 100px;
+  }
+.call {
+    display: flex;
+    
+}
+
+.website{
+    display: flex;
+    margin-top: -40px;
+    
+}
+
+.calling {
+    margin-top: 60px;
+    margin-right: 60px;
+}
+
+.call img, .website img {
+    width: 25px;
+    height: 25px;
+    margin-top: 30px;
+    margin-right: 12px;
+}
+
+.call p{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+}
+
+.website p{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+
+}
+
+.contacts> p{
+    width: 375px;
+    margin-top: 80px;
+    margin-left: 80px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+
+}
+
+.footer hr{
+    width: 1320px;
+   color:  rgba(255, 255, 255, 0.15);
+   margin-top: 60px;
+   padding: 0;
+   border: none;
+   border-top: 1px solid;
+
+   
+    
+
+}
+
+.unsubscribe{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-top: 70px;
+    
+}
+
+.unsubscribe button:hover{
+    cursor: pointer;
+    color: aquamarine;
+}
+  
+.unsubscribe p{
+    margin-left: 70px;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.unsubscribe button {
+    color: white;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    background-color: #070211;
+    border: none;
+}
